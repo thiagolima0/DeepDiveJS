@@ -1,1 +1,1 @@
-# JS-deepDive
+# JS-deepdive
